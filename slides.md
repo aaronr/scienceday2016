@@ -23,6 +23,11 @@
   <img style="max-height: 200px;" src="images/dwh_burning_cover.png">
   <h3>Environmental Response</h3>
 
+--SUBSLIDE--
+
+  <h3>I make maps</h3>
+  <img style="max-height: 500px;" src="images/dwh_erma.png">
+
 
 <!------------------------------------------------------------>
 --SLIDE--
