@@ -81,8 +81,9 @@
 
 --SUBSLIDE--
 
-<h2>Coding can involve getting <b>outside!</b></h2>
+<h2>Coding can involve</h2>
 <img src="images/maps_fun.jpg" style="max-height: 450px;">
+<h2>getting <b>outside!</b></h2>
 
 
 <!------------------------------------------------------------>
