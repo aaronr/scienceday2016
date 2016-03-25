@@ -79,6 +79,10 @@
 <h2>Code can make things fast!</h2>
 <img src="images/sort.gif" style="max-height: 450px;">
 
+--SUBSLIDE--
+
+<h2>Coding can involve getting <b>outside!</b></h2>
+<img src="images/maps_fun.jpg" style="max-height: 450px;">
 
 
 <!------------------------------------------------------------>
@@ -181,6 +185,20 @@
 <!-- Topic: Example -->
 
 <img src="images/pong.png" style="max-height: 550px;">
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Example -->
+
+<img src="images/sparse.png" style="max-height: 650px;">
+
+--SUBSLIDE--
+
+<img src="images/dense.png" style="max-height: 650px;">
+
+--SUBSLIDE--
+
+<img src="images/stitch.jpg" style="max-height: 650px;">
 
 <!------------------------------------------------------------>
 --SLIDE--
