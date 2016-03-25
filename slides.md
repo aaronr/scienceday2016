@@ -116,11 +116,11 @@
 
 --SUBSLIDE--
 
-<img src="images/input.png" style="max-height: 550px;">
+<img src="images/inout_example.png" style="max-height: 550px;">
 
 --SUBSLIDE--
 
-<img src="images/inout_example.png" style="max-height: 550px;">
+<img src="images/input.png" style="max-height: 550px;">
 
 --SUBSLIDE--
 
@@ -129,11 +129,11 @@
 
 --SUBSLIDE--
 
-<img src="images/if.png" style="max-height: 550px;">
+<img src="images/rocket.jpg" style="max-height: 550px;">
 
 --SUBSLIDE--
 
-<img src="images/rocket.jpg" style="max-height: 550px;">
+<img src="images/if.png" style="max-height: 550px;">
 
 --SUBSLIDE--
 
@@ -142,11 +142,11 @@
 
 --SUBSLIDE--
 
-<img src="images/loop.png" style="max-height: 550px;">
+<img src="images/car.jpg" style="max-height: 550px;">
 
 --SUBSLIDE--
 
-<img src="images/car.jpg" style="max-height: 550px;">
+<img src="images/loop.png" style="max-height: 550px;">
 
 <!------------------------------------------------------------>
 --SLIDE--
