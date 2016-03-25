@@ -17,6 +17,12 @@
 <h2><b>Coding</b> can be a job</h2>
 <img src="images/job.jpg" style="max-height: 450px;">
 
+--SUBSLIDE--
+
+  <h3>Work for NOAA</h3>
+  <img style="max-height: 200px;" src="images/dwh_burning_cover.png">
+  <h3>Environmental Response</h3>
+
 
 <!------------------------------------------------------------>
 --SLIDE--
@@ -63,6 +69,12 @@
 <h2>Code is <b>Fun</b></h2>
 <img src="images/blockly.png" style="max-height: 450px;">
 
+--SUBSLIDE--
+
+<h2>Code can make things fast!</h2>
+<img src="images/sort.gif" style="max-height: 450px;">
+
+
 
 <!------------------------------------------------------------>
 --SLIDE--
@@ -70,6 +82,27 @@
 
 <h2><b>Code</b> basics</h2>
 <img src="images/lego.jpg" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2>Variables</h2>
+<img src="images/variable.jpg" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<pre><code>
+>>> x = 1
+>>> x
+1
+>>> y = 2
+>>> y
+2
+>>> x + y
+3
+>>> x = 10
+>>> x + y
+12
+</code></pre>
 
 --SUBSLIDE--
 
@@ -130,6 +163,19 @@
 --SUBSLIDE--
 
 <img src="images/venn_example.jpg" style="max-height: 550px;">
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Example -->
+
+<img src="images/pi.jpg" style="max-height: 550px;">
+
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Example -->
+
+<img src="images/pong.png" style="max-height: 550px;">
 
 <!------------------------------------------------------------>
 --SLIDE--
